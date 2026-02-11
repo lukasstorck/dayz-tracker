@@ -1,0 +1,9 @@
+name = "Tracker";
+picture = "";
+logo = "";
+logoSmall = "";
+tooltip = "Server-wide individual player notifications with tracker location";
+overview = "Server-wide individual player notifications with tracker location";
+action = "";
+author = "codehead0";
+version = "1.0";
