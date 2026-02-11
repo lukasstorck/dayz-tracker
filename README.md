@@ -1,6 +1,6 @@
 # Tracker
 
-A DayZ server mod providing server-wide individual player notifications with tracker locations.
+A DayZ mod providing server-wide individual player notifications with tracker locations.
 
 Tracker adds a server-side tracking system using a custom item *Modified Field Transceiver*, which acts as a tracking device and sends automated location updates to players.
 It is useful for event tracking, missions, bounties, or other admin-controlled gameplay scenarios, and is fully configurable via JSON settings and in-game chat commands.
