@@ -58,8 +58,7 @@ Example:
 ```
 
 Output depends on enabled settings.
-
-If a player is within `minDistance` (e.g. = 50), the message changes to:
+E.g. if a player is within `minDistance` (e.g. = 50), the message changes to:
 
 ```
 [Tracker] Alpha at X:45 Y:92 (you are within 50 m), 120 m south of Devil's Castle
@@ -81,5 +80,5 @@ The size of the circles has no meaning and is only there for visualization.
 
 ## Links, Bug Reports and Suggestions
 
-Download from steam workshop: [Tracker](https://steamcommunity.com/sharedfiles/filedetails/?id=3664351520)
+Download from steam workshop: [Tracker](https://steamcommunity.com/sharedfiles/filedetails/?id=3664351520)  
 You can report bugs by creating an issue on [GitHub](https://github.com/lukasstorck/dayz-tracker/issues/new).
